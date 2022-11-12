@@ -1,0 +1,23 @@
+
+
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<students>
+    <student id="1">
+    <name> Alex </name>
+    <phoneNumber> 1234567 </phoneNumber>
+    <country> USA </country>
+    <city> New-York </city>
+    <street> Wall Street </street>
+    </student>
+
+    <student id="2">
+    <name> Bob </name>
+    <phoneNumber> 7654321 </phoneNumber>
+    <country> USA </country>
+    <city> Detroit </city>
+    <street> Green Street </street>
+    </student>
+
+</students>
+

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41a638f5-317b-4317-9f03-2311b74a0fa0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/xerial_sqlite_jdbc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RebootHomeWork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_API/Date_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Date_API/Stream_API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Exceptions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Exceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HomeWorkFOR_IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Human1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Massive/MassiveMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/SaxPrser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/student.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/XML/students.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Инкапсуляция/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Наследование/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Наследование/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Наследование/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Полиморфизм/Animal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Полиморфизм/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ООП_Полиморфизм/Main2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G5WmOhj1brq4085gUd0kQGvpZG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ООП.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ООП_Инкапсуляция.Main" />
+      <module name="RebootHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ООП_Инкапсуляция.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Program" />
+      <module name="RebootHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stream_API" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date_API.Stream_API" />
+      <module name="RebootHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Date_API.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuilderMain" />
+      <module name="RebootHomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ООП.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ООП.Main" />
+      <module name="RebootHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ООП.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ООП.Main" />
+        <item itemvalue="Application.StringBuilderMain" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Stream_API" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41a638f5-317b-4317-9f03-2311b74a0fa0" name="Changes" comment="" />
+      <created>1665679086183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665679086183</updated>
+      <workItem from="1665679088066" duration="4029000" />
+      <workItem from="1665683693941" duration="6742000" />
+      <workItem from="1665847310621" duration="1486000" />
+      <workItem from="1666202599087" duration="6878000" />
+      <workItem from="1666285809244" duration="2046000" />
+      <workItem from="1666291138830" duration="992000" />
+      <workItem from="1666367573033" duration="5000" />
+      <workItem from="1666450777525" duration="15902000" />
+      <workItem from="1667142928176" duration="3465000" />
+      <workItem from="1667148833062" duration="9826000" />
+      <workItem from="1667410256648" duration="15000" />
+      <workItem from="1667493762097" duration="18901000" />
+      <workItem from="1667828130306" duration="7466000" />
+      <workItem from="1667924196344" duration="874000" />
+      <workItem from="1668099610129" duration="637000" />
+      <workItem from="1668182053314" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
